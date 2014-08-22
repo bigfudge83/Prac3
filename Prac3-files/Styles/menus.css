@@ -1,0 +1,17 @@
+a {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;   
+}
+
+.drop-menu {
+    position: absolute;
+    color: white;
+    background-color: blue;
+    display: none;
+}
+
+.second-menu {
+    left: 150px
+}
